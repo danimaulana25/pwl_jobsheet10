@@ -1,3 +1,4 @@
+@extends('articles.layout')
 <!DOCTYPE html> 
 <html> 
 <head> 
